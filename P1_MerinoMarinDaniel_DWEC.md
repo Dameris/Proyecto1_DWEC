@@ -195,7 +195,7 @@ Aunque se pueda pensar que hasta el código más simple se visualizará de la mi
 ***
 
 * ##### Exploración de tecnologías como CSS y HTML5
-    * HTML5: HTML5 es la última versión del lenguaje de marcado HTML utilizado para crear la estructura de una página web. HTML (HyperText Markup Language) es un lenguaje de etiquetas que permite incluir o hacer referencia a todo tipo de información.  
+    * HTML5: es la última versión del lenguaje de marcado HTML utilizado para crear la estructura de una página web. HTML (HyperText Markup Language) es un lenguaje de etiquetas que permite incluir o hacer referencia a todo tipo de información.  
 	
 		HTML5 introduce nuevos elementos semánticos como `<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`, que ayudan a describir mejor la estructura y el contenido de una página web. También, incluye elementos como `<audio>` y `<video>` que permiten la reproducción de contenido multimedia sin necesidad de plugins y proporciona elementos como `<canvas>` y compatibilidad con WebGL para dibujar gráficos y animaciones en el navegador.
 

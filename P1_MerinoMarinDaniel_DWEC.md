@@ -214,7 +214,7 @@ Aunque se pueda pensar que hasta el código más simple se visualizará de la mi
 	2. El código JavaScript en un archivo .js aparte:  
 	[![calculadora-html-Tema-1-Visual-Studio-Code-22-09-2023-10-15-12.png](https://i.postimg.cc/BQXvSLMG/calculadora-html-Tema-1-Visual-Studio-Code-22-09-2023-10-15-12.png)](https://postimg.cc/w7YzFBCW)  
 
-	[![calculadora-html-Tema-1-Visual-Studio-Code-22-09-2023-10-15-18.png](https://i.postimg.cc/qqZMc4BY/calculadora-html-Tema-1-Visual-Studio-Code-22-09-2023-10-15-18.png)](https://postimg.cc/1VwQsxqc)
+		[![calculadora-html-Tema-1-Visual-Studio-Code-22-09-2023-10-15-18.png](https://i.postimg.cc/qqZMc4BY/calculadora-html-Tema-1-Visual-Studio-Code-22-09-2023-10-15-18.png)](https://postimg.cc/1VwQsxqc)
 
 ***
 
